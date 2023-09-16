@@ -17,3 +17,6 @@ z.ndim
 
 z.size
 10
+
+z.dtype
+dtype('int8')
