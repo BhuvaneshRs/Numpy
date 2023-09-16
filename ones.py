@@ -26,3 +26,9 @@ z=np.ones(10,dtype='int32')
 z
 array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1], dtype=int32)
 
+x.ndim
+2
+y.ndim
+2
+z.ndim
+1
