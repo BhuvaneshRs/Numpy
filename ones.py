@@ -25,3 +25,4 @@ z=np.ones(10,dtype='int32')
 
 z
 array([1, 1, 1, 1, 1, 1, 1, 1, 1, 1], dtype=int32)
+
